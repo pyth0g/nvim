@@ -1,7 +1,5 @@
 # Nvim
 
-<details><summary>Install the <a href="https://github.com/pyth0g/nvim">LazyVim Starter</a></summary>
-
 - Make a backup of your current Neovim files:
 
   ```sh
@@ -28,4 +26,3 @@
   ```
 
 
-</details>
